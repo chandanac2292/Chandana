@@ -1,2 +1,2 @@
 # Chandana
-Aurthor - Chandana C (chanfrashekar)
+Aurthor - Chandana C (chandrashekar)
